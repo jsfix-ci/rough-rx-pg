@@ -33,6 +33,6 @@
     "access": "public"
   },
   "dependencies": {
-    "rxjs": "^6.3.3"
+    "rxjs": "^7.5.6"
   }
 }
